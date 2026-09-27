@@ -1,27 +1,28 @@
-# Mohd. Amir Hasan — Portfolio
+# TechForge Portfolio
 
-A production-ready personal portfolio built with React, TypeScript, Vite, Framer Motion and Lucide React.
+A simple portfolio website built to showcase projects, skills, and contact information.
 
-## Run locally
+## Features
+- Responsive layout
+- Project showcase section
+- About and skills information
+- Contact section
+- Clean, modern design
 
-```bash
-npm install
-npm run dev
-```
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-## Build
+## Getting Started
+1. Open the project folder in your editor.
+2. Start a local server or open `index.html` in a browser.
+3. Customize the content in the HTML/CSS files to fit your portfolio.
 
-```bash
-npm run build
-```
+## Project Structure
+- `index.html` - Main page structure
+- `styles.css` - Styling and layout
+- `script.js` - Interactive behavior
 
-## Deploy on Vercel
-
-Import this repository into Vercel. The default Vite build settings work automatically.
-
-## Before deployment
-
-1. Replace `public/resume.pdf` with your real CV.
-2. Add a profile photo if desired (the hero is designed to support one later).
-3. If you want the contact form to submit directly, connect a form provider such as Formspree/Web3Forms and add the endpoint in the contact component.
-4. Update the canonical domain in `index.html` and `public/sitemap.xml` after your Vercel/custom domain is known.
+## License
+This project is for personal portfolio use.
